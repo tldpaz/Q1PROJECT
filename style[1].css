@@ -1,0 +1,62 @@
+
+.container1{
+	text-align: center;
+	background-color: #eeeee4;
+	text-align:center;
+	column-gap: 40px;
+	margin:auto;
+	padding: 40px;
+	border-spacing: 20px;
+	border: 6px dashed;
+	display: flex;
+	justify-content: center;
+}
+.box{
+	margin: 10px;
+	width: 800px;
+	height: 500px;
+	box-shadow: -1px 0 10px #0000;
+
+}
+label{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: saddlebrown;
+}
+id{
+	background-color: rosybrown;
+	color: saddlebrown;
+}
+text{
+	background-color: rosybrown;
+	color: saddlebrown;
+}
+body{
+	background: #3333;
+	font-family: 'Poppins', sans-serif;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+.h1 {
+  	font-size: 40px;
+  	font-family:fantasy;
+	color: saddlebrown;
+}
+img{
+	width: 300px;
+	height: 250px;
+}
+h1{
+	font-family: fantasy;
+}
+h5{
+	font-family: sans-serif;
+	font-size: 10px;
+	color: saddlebrown;
+}
+h6{
+	font-family: sans-serif;
+	font-size: 8px;
+	color: saddlebrown;
+}
